@@ -1,7 +1,7 @@
 import requests
 
 # Define the URL of the webpage to scrape
-url = "https://gemini.google.com/app/d9271c44aaddd0f7"
+url = "https://www.example.com/"
 
 # Send a GET request to the URL
 try:
